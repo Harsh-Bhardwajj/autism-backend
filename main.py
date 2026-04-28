@@ -18,7 +18,7 @@ app_data = {}
 
 origins = [
     "http://localhost:8080",  # Your local frontend development server
-    "https://autism-frontend-six.vercel.app/",  # Your deployed frontend URL
+    "https://autism-frontend-six.vercel.app",  # Your deployed frontend URL
 ]
 
 # Allow the frontend (running on a different origin) to communicate with this API.
